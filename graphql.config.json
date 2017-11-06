@@ -1,0 +1,29 @@
+{
+
+  "schema": {
+
+    "request": {
+      "url" : "https://api.graph.cool/simple/v1/cj9bh8cb343kx01631oiraj3o",
+      "method" : "POST",
+      "postIntrospectionQuery" : true,
+      "options" : {
+        "headers": {
+          "user-agent" : "JS GraphQL"
+        }
+      }
+    }
+  },
+
+  "README_endpoints": "A list of GraphQL endpoints that can be queried from '.graphql' files in the IDE",
+  "endpoints" : [
+    {
+      "name": "Default (https://api.graph.cool/simple/v1/cj9bh8cb343kx01631oiraj3o)",
+      "url": "https://api.graph.cool/simple/v1/cj9bh8cb343kx01631oiraj3o",
+      "options" : {
+        "headers": {
+          "user-agent" : "JS GraphQL"
+        }
+      }
+    }
+  ]
+}
